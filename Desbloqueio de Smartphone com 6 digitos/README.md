@@ -1,8 +1,13 @@
 # Desbloqueio Automático de Smartphone com Digispark ATTiny85
 
-![digispark](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Digispark_ATtiny85_USB_development_board.jpg/320px-Digispark_ATtiny85_USB_development_board.jpg)
-
 Este projeto demonstra como utilizar o microcontrolador **Digispark ATTiny85** para **simular comandos USB** (como um teclado HID) e **desbloquear automaticamente a tela de um smartphone** Android, por meio de uma sequência programada de teclas.
+
+
+
+
+https://github.com/user-attachments/assets/f072fe65-92c5-4f95-95a5-bcf149bdcdb8
+
+
 
 ---
 
@@ -18,11 +23,11 @@ Automatizar o processo de desbloqueio de um smartphone via USB usando o Digispar
 
 ## Requisitos
 
-- ✅ 1x Digispark ATTiny85
-- ✅ 1x Adaptador OTG ou cabo USB-C/OTG compatível com seu celular
-- ✅ Software Arduino IDE
-- ✅ Placa Digispark configurada na IDE
-- ✅ Sketch HID com os comandos de desbloqueio
+- 1x Digispark ATTiny85
+- 1x Adaptador OTG ou cabo USB-C/OTG compatível com seu celular
+- Software Arduino IDE
+- Placa Digispark configurada na IDE
+- Sketch HID com os comandos de desbloqueio
 
 ---
 
@@ -74,11 +79,6 @@ Este projeto é **estritamente educacional** e **não deve ser utilizado para ac
 
 ---
 
-## projeto
-
-
-
----
 
 ## Contribuições
 
