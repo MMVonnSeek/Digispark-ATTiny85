@@ -80,18 +80,50 @@ Este projeto é **estritamente educacional** e **não deve ser utilizado para ac
 ---
 
 
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se livre para fazer um fork, abrir issues ou enviar pull requests com melhorias, sugestões e testes em outros modelos de celular.
-
----
 
 ## Licença
 
 Distribuído sob a Licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
 
+
+----------
+
+
+## Contribuição
+
+Se você gostou do projeto, não esqueça de:
+
+-   ⭐ Deixar uma estrela no Repositório
+    
+-    Reportar bugs encontrados
+    
+-    Sugerir novas funcionalidades
+    
+-    Fazer um fork e contribuir
+    
+
+----------
+
+## Dúvidas?
+
+Se tiver alguma dúvida durante o processo, me chame no WhatsApp ou abra uma issue no GitHub.
+
 ---
+<div align="center"> <sub> Feito por <strong>Prof. Max Muller - MMVonnSeek</strong></sub>
 
-## Autor
+  
+  
 
-**Professor Max Müller**  
+[![Stars](https://img.shields.io/github/stars/MMVonnSeek/Digispark-ATTiny85?style=social)](https://github.com/MMVonnSeek/Digispark-ATTiny85/stargazers)
+[![Forks](https://img.shields.io/github/forks/MMVonnSeek/Digispark-ATTiny85?style=social)](https://github.com/MMVonnSeek/Digispark-ATTiny85/network/members)
+[![Follow](https://img.shields.io/github/followers/MMVonnSeek?style=social)](https://github.com/MMVonnSeek)
+
+<a href="https://wa.me/5561986194426?text=Olá%20tudo%20bem%20Max%3F%20Eu%20vim%20pelo%20seu%20repositorio%20do%20github.%20Podemos%20conversar%20sobre%3F" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Fale%20Comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<br>
+
+  [Voltar ao topo](#-Digispark-ATTiny85)
+
+</div>
