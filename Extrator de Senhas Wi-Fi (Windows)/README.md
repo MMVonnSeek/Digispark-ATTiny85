@@ -7,8 +7,12 @@ Use APENAS para:
 - Estudos de conscientização sobre segurança da informação
 - Recuperar senhas de redes que você possui autorização
 
+---
+
 ### Objetivo Educacional
 Mostrar como o Windows armazena senhas Wi-Fi de forma acessível (com comando `netsh wlan show profiles`) e como um dispositivo USB pode extraí-las em segundos.
+
+---
 
 ### Como funciona
 1. O Digispark se conecta como teclado USB
@@ -17,11 +21,15 @@ Mostrar como o Windows armazena senhas Wi-Fi de forma acessível (com comando `n
 4. Extrai as senhas em texto puro
 5. Salva em um arquivo .txt no Desktop
 
+---
+
 ### Como se proteger
 - **Desative o AutoRun** de dispositivos USB
 - **Use BitLocker** para criptografar o sistema
 - **Bloqueie portas USB** em computadores públicos
 - **Nunca salve senhas** em redes desconhecidas
+
+---
 
 ### Saída esperada
 ```
@@ -40,6 +48,8 @@ Conteúdo da Chave: 12345678
 | `netsh wlan show profiles` | Lista redes salvas |
 | `key=clear` | Mostra senha em texto puro |
 | `findstr "Conteudo da Chave"` | Filtra apenas a linha da senha |
+
+---
 
 ### Variações do projeto
 - **Versão stealth**: Fecha CMD automaticamente
